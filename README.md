@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Happiness-James
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Ruby, python, JavaScript, kotlin, and React.
+- 🌱 I’m currently learning Ruby, python, JavaScript,Rails, kotlin, and React.
 - 📫 How to reach me LinkedIn - Happiness James, Email - gesarehjames@gmail.com
 
 <!---
